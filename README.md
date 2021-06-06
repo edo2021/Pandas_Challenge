@@ -1,7 +1,11 @@
 # Pandas_Challenge
 
-This code is written by Edris Gemtessa at University of Minnesota.
+
 this code focus on the following.
+<h1>Heroes of Pymoli</h1>
+
+![image](https://user-images.githubusercontent.com/76269709/120912242-35ac4680-c653-11eb-8a9c-0ad54b80ee92.png)
+
 Player Count
 
 Total Number of Players
