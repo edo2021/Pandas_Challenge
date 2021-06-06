@@ -10,7 +10,7 @@ Create a new repository for this project with any name you like. Do not add to a
 Clone the new repository to your computer.
 
 
-Inside your local git repository, create one directory for the u choose to do, and name that folder either HeroesOfPymoli or  PyCitySchools.
+Inside your local git repository, create one directory for the u choose to do, and name that folder either HeroesOfPymoli.
 
 
 Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
