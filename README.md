@@ -1,6 +1,21 @@
 # Pandas_Challenge
 
 
+To run this code
+
+
+Create a new repository for this project with any name you like. Do not add to an existing repository.
+
+
+Clone the new repository to your computer.
+
+
+Inside your local git repository, create one directory for the u choose to do, and name that folder either HeroesOfPymoli or  PyCitySchools.
+
+
+Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
+
+
 this code focus on the following.
 <h1>Heroes of Pymoli</h1>
 
